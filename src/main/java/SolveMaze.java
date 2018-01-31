@@ -56,5 +56,5 @@ public class SolveMaze {
                         System.out.println("Try again!");
                     }
                 }
-}
+} 
 
